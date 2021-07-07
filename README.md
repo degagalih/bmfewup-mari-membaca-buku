@@ -36,6 +36,7 @@ Berikut struktur folder dalam aplikasi ini:
 Download project lalu ekstrak di root folder anda.
 
 ## Demo
+https://marimembacabuku-degalabs.netlify.app/
 
 ## Credits
 
